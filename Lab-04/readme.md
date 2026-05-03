@@ -59,7 +59,7 @@ This repository contains the complete solution for **Assessment Problem — Task
 ## 🗂️ Repository Structure
 
 ```
-Lab-Normalization/
+Lab-04 (Normalization)/
 │
 ├── 📄 README.md                          ← You are here
 │
@@ -72,7 +72,8 @@ Lab-Normalization/
 └── 📂 SQL/
     ├── 🔵 1NF_hospital.sql               ← 1NF schema + data
     ├── 🟢 2NF_hospital.sql               ← 2NF schema + data + JOINs
-    └── 🟣 hospital_normalization.sql     ← Complete UNF→1NF→2NF→3NF script
+    ├── 🟣 3NF_hospital.sql               ← 3NF schema + data + JOINS
+    └── 🟢 hospital_normalization.sql     ← Complete UNF→1NF→2NF→3NF script
 ```
 
 ---

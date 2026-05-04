@@ -3,9 +3,8 @@
 <!-- Banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B4F8A,148F77&height=200&section=header&text=Database%20Normalization&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UNF%20→%201NF%20→%202NF%20→%203NF%20%7C%20Hospital%20Patient%20Visits&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff,ff00ff,ffea00&height=230&section=header&text=Database%20Normalization&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=UNF%20→%201NF%20→%202NF%20→%203NF%20%7C%20Hospital%20Patient%20Visits&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=230&section=header&text=Database%20Normalization&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=UNF%20→%201NF%20→%202NF%20→%203NF%20%7C%20Hospital%20Patient%20Visits&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 
 <!-- Badges -->
